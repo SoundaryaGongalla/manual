@@ -1,0 +1,198 @@
+open browser enter email and password
+--------------catalog-------------
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2 In Home Page click on "Catalog" check that a dropdown MBD
+3 Click on "MAnage Products" Check "Manage products Page " MBD\
+4 Check that admin is able "add  product " in "Manage Products" page
+--In "Manage Products" page click  on"add Product" Check that "Add New Product" page MBD
+--Enter Mandatory details click on SAVe  it check that  product is added to Manage Products page
+5 Check that admin is admin is able to add Product IMG  in "Add New Product" page.
+ 
+6 Check admin is able to edit the Existing the particular product in  Manage Product 
+7Check that admin is able to delete the particulat product in "Managge product" page
+--In Manage Product page select the particular product clck on ddelete check that product is deleted from "Managge products" page
+8check that admin is sort the the Produxts in " Manae Products" apge 
+--In "Manage Products" page Se;ect the  product click on sort check sort products PAge MBD
+9 Check that admin is able to move the product  to particular  categoreis
+-- select the product click on move  select cataeory from dropdown and clik on  move  check that product is moved  from "manage products" apge
+10check that admin is able copy the  product in another category 
+------------------------MANAGE CATEGORIE-------------------
+
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2In Home Page click on"Catalog" check that dropdown MBD
+3 Click on"Manage CAtegories" page   Manage Categories Page MBD
+4check  that admin is able to add "subCategory" in sub categories page
+---In "Manage CAtegories" page  clik on "create Subcategory" check  "Add new CAtegeory" page MBD
+---In "create NEw CATEgeory " page enter mandator info and save check that sub categeory is added to ""Manage CAtegories" page 
+5Check that admin is able to edit the CAtegeory in""Manage CAtegories" page ===
+--"Manage CAtegories" page  select categeory clik on edit  do necessar change and save check that cateeory is updated with new info
+6Check that admin is able to delete  sub category from "Manage CAtegories" page 
+7 Check that admin is able to redo he changes in "Manage CAtegories" page 
+8Check that admin is able to undo he changes in "Manage CAtegories" page 
+
+--------------MANAGE PRODUCT TYPES----------------------------
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2In Home Page click on"Catalog" check that dropdown MBD
+3 Click on"Manage Product Types" page check that  "Manage Product Types" page MBD
+4 Check that admin is able to add new Product type in "Manage Product Types" page
+---In "Manage Product Types" page click on Add new product type  check new Product page MBD
+5Check that admin is able delete  the exxisting  "product type" in "Manage Product Types" page
+6 check that admin is able to select the particular  "product type"
+--In "Manage Product Types" page select the particular "Product type" check it will naviate to PRoductTypeDEtails page
+7 Check that admin is  able to  edit the existing "product type" in "Manage Product Types" page
+8 Check that admin can add "Product options " in "Manage Product Types" page
+--in edit page clik on "product options" page  enter the details ckil on save 
+---------------------MANUFACTURES----------------------------
+
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2In Home Page click on"Catalog" check that dropdown MBD
+3 Click on"Manufactures" in CAtalog .check that  "Manufactures" page MBD
+4 Check  that  admin is able to add "new Manufacture" in "Manufactures" page
+---In "Manufactures" page  click on "new Manufacture" page check New Page MBB
+--  enter the details clik pn save check that manufacture is added in "Manufactures" page
+
+5Check that admin is able delete  the exxisting  "manufacture " in "manufactures" page 
+--In manufactures page  selct the manufacture  click on delete  check that manufacture  is removed from manufactures Page
+6 check that admin is sort the the manufacture in "manufactures" apge 
+
+--In "manufactures" page Se;ect the  manufacture click on sort check sort manufactures PAge MBD  
+
+7 Check that admin is able to edit the CAtegeory in""manufactures" page ===
+--"manufactures" page  select manufacture click on edit  do necessary change and save check that manufactureis updated with new info
+8  check that admin is able to select the particular  manufacture in "manufactures "page  
+--In "manufactures s" page select the particular "manufacture " check it will navigate to manufactures page"
+--------------PRODUCT IMPORT--------------------------
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2In Home Page click on"Catalog" check that dropdown MBD
+3 Click on"Product Import" page   Manage Categories Page MBD
+4 Click on "Product Export" page  check "Product Import" page MBD
+5 Check that admin is able to select the file from system  to import 
+--In product  import click on chopsen file check it will navigate to Documents
+ click on OPEN check file is added to "product import" page  then click non next and clik on start   check it will import complete msg Be MBD clik on cloe
+
+
+
+
+
+
+
+--------------PRODUCT EXXPORT--------------------------
+
+1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2In Home Page click on"Catalog" check that dropdown MBD
+3 Click on"Manage CAtegories" page   Manage Categories Page MBD
+4 Click on "Product Export" page  check "Product Exports" page MBD
+5 check that admin is able to export selected categories from "Exxport Products" page
+---in Export product page selec the categories and tpe click on start and next ckeck export completed msg andd 
+6 Check admin can download  the CSV  file
+
+
+----------------------------CUSTOMERS-----------------------
+1 1 Open brower enter url  and  enter email and password click on sign in check that Home Page MBD
+2 Check admin is able to click on "Customers" check that dropdown MBD
+3 Click on"Customer"  check Customers PAge MBD
+4 Check admin can search  customers  in Search Box
+--In "Customers" page Enter customer name and click on search  check that particular customer Details MBD
+ 
+4Check admin can see the particular details by selecting" E-mail"
+--clik on Email check it will navigate to "Customer"Particular details page MBD 
+5 Check that admin can add membership  to customer in "Customers"page
+6Check admin is able to update  if any chnages done on customer
+8 check admin  can delate the "customer" in "Customers" page
+9Check admin is able to reset the password  when customer request for forget Password
+10 Check addmin can create Customergroups  in "customers" page 
+
+----------------------------REVIEWS--------------
+1 OPEN BROWSER ENTER URL  enter email and password check HomePage MBD
+2Check admin can clik on"review" in Customers  dropdown
+3 In Customers"page  check admin can view "AllReviews" 
+4 Check addmin can edit the customer review in "Customers " page
+5 Check admin can add new "review " in "Customers review" page
+6Check admin  can  edit the review and cancel chck that review is not updated with new info
+7Check admin can delect the particular customer review
+8 check admin can  set the range  to displa the review in particu;ar period
+9 Check admin can add rating in "customers review" page
+-----------------ORDERS----------------------------------------
+1 open browser enter url enter email nad password check "Home" page MBD
+2 In Home Page check admin can click on orders Check "Orders" page MBD
+
+3Check admin can view all the orders placed by the customers
+4 Check admin can delete the order form  "Orders" page
+5 Check admin can change the order status andd update it
+6 Check admin can   download  csv file by clicking export to csv
+7 check admin can  export ALl to csv  and dowonlaod the file
+8Check admin can able to clikc on order ID to  view the particular order 
+---------------------MARKETING---------------------------
+------------GLOBAL DISCOUNTS-------------------
+1.oPEN Browser enter email and pasword check uer can view Home pagge
+2.Check admin can  clik on "Global Ddiscounts" check "Manage GlobalDiscounts" page MBD
+3 Check admin can   add New  Global Discount in"Manage Global Discounts" page
+4Check admin can delete  the particular "Global Discount"in "Manage Global Discount" page
+5 Check admin can disable the global discount and update it 
+6 chckadmin can edit  the changes in GD chckadmin  can view new info.
+
+-----------------PROME CODES-----------------------
+1. OPEN BROWER andd enter email and pasword check admin can view the "Home page"
+2. In Home Page Admin check  admin can  select promocode in "MArketing" dropdown
+3.Check admin can add new Promo code in "Manage PromoCodes" pae
+--clik on add promo code enter the mandator details, clik on save check promocode is added in Allpromocodes 
+page
+4.Check admin can delete the Particular "Promocode" in "Manag Promocode" pagge
+5 Check admin can edit the existing "promocode " in "Manage PromoCode" page
+6.Check admin can select the promocode check  it will displsy PArticular promod=code details
+7.Check admin can do the setting in "Manage Promocode" page
+
+----------------GIFT CERTIFICATES------------------
+1.OPEN BROWSER enter email and enter password click on sin in chck admin will check the " home" page
+2.In "Home PageP check  admin can clik on Gift Certificates"  in " Marketing " dropdown
+3. admin can clik on Gift CertificatesCheck GiftCertificates page MBD
+4.Check admin can add a" new Gift Certificte" in "Manage Gift Certificate" page
+5.check admin can edit the existing git cerrtificate in"manage "giftCertifictes" page
+6.Check addmin can delete the Gift Certificate in "Manage Gift Certificte" page
+7Check admin can select the particular Gift Card in "Manage gift Cerftification" page
+8.Check admin can  add mail from and to same check that C is aadded
+-----------------NEWSLETTER--------------------------------
+1.OPEN browser enter mail and pasword click on sign in check admin can view "Home " pgge
+2.In "home " page click on NEwsLetter check admin can view "NewsLetters" page
+3.Check admin can add new Letter in "Manage NewsLetter" page
+4.Check admin can edit the existing newLetter  in"Manage NewsLetter" page
+5.Check admin can delete the exxxisting   newLetter in"Manage NEwsLetter" page
+6.Check  admin can send  the newsLetter to Particularreceipts
+--------------SUBSCRIPTIONS-----------------------------------------
+1.OPEN BROWSER ENTER Email and enter password click on sign in check admin can view "Home page"
+2.In "Home page " check admn can select the subscription in "Marketing" page
+3.Check admin can click on "subscription" check it will display "MAnage Subsciptions" pagge
+4.Check admin can add topic in"Subbscriptions" page
+5.Check admin can delete the particular subbscription in "manage Subscription" page
+6 Check admin will able to sort the subscriptions in "Managge Subscriptions" page
+7 check admin can unsubscribe  the particular subscription in"Manage Subbscriptions" pagge
+8.Check admin can view the particular topic in subscriptions page
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+1. Check admin can view a product in"Products" page  when Customer place an order.
+2Check user can view STatus of shipping in Orders page when admin  can change the status in"Manage Ordes" page.
+3. Check user can view  the  Discount in  products when admin can create the discount  status ACtivein "Manage Discounts" page
+4.Check admin can view the details of customer in "Customers" page  when User register for the first time in Application.
+5Check user can view the all subscrptions in " home page" when admin can  create subscription in"Subscriptions" pagge and when it is active.
+6.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
